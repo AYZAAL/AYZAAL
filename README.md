@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** and **UI
 
 ## 🌟 About Me
 
-- **Pronouns:** He/Him
+
 - **Current Focus:** Mastering Next.js & Advanced UI/UX Design
 - **Fun Fact:** I can design a website mockup and code it into reality in the same day!
 - **Philosophy:** "Design isn't just how it looks, it's how it works" - Steve Jobs
